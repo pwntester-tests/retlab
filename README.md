@@ -73,7 +73,6 @@ defaults:
 # Plugins
 plugins:
   - jekyll-seo-tag
-  - jekyll-avatar
   - jekyll-github-metadata
   - jekyll-feed
 ```
