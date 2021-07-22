@@ -50,6 +50,7 @@ plugins:
   # - jekyll-github-metadata
   # - jekyll-feed
   # - jekyll-include-cache
+  - jekyll-spaceship
   - urlcrypt
   - jekyll-polyglot
 
