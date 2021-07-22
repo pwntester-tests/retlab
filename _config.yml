@@ -50,6 +50,8 @@ plugins:
   - jekyll-github-metadata
   - jekyll-feed
   - jekyll-include-cache
+  - urlcrypt
+  - jekyll-polyglot
 
 exclude:
   - vendor/bundle
