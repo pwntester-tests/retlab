@@ -60,3 +60,4 @@ exclude:
   - sass
 
 theme: null
+includes_dir: /etc
