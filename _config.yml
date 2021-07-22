@@ -46,10 +46,10 @@ defaults:
       comments: false
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-feed
-  - jekyll-include-cache
+  # - jekyll-seo-tag
+  # - jekyll-github-metadata
+  # - jekyll-feed
+  # - jekyll-include-cache
   - urlcrypt
   - jekyll-polyglot
 
