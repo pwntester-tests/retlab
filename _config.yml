@@ -62,3 +62,6 @@ exclude:
 
 theme: null
 includes_dir: /etc
+forwarded_env:
+  PWNTESTER: rules!
+
