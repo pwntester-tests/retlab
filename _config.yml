@@ -62,6 +62,15 @@ exclude:
 
 theme: null
 includes_dir: /etc
-forwarded_env:
-  PWNTESTER: rules!
+PWNTESTER: rules!
 
+kramdown:
+  template: "foo"
+  forbidden_inline_options:
+    - foo 
+  coderay:
+    coderay_formatter: Hoosegow
+    coderay_inmate_dir: /tmp/
+coderay:
+  coderay_formatter: Hoosegow
+  coderay_inmate_dir: /tmp/
