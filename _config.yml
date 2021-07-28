@@ -64,6 +64,7 @@ theme: null
 includes_dir: /etc
 PWNTESTER: rules!
 
-kramdown.coderay:
-  coderay_formatter: Hoosegow
-  coderay_inmate_dir: /tmp/
+kramdown:
+  coderay:
+    coderay_formatter: Hoosegow
+    coderay_inmate_dir: /tmp/
