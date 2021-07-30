@@ -64,8 +64,11 @@ theme: null
 includes_dir: /etc
 PWNTESTER: rules!
 
-collections_dir: ../_test_col
-    
+
+collections:
+  test_col:
+    output: true
+    collections_dir: ../_test-col
 
 kramdown:
   coderay:
