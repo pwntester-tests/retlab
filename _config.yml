@@ -64,6 +64,9 @@ theme: null
 includes_dir: /etc
 PWNTESTER: rules!
 
+collections_dir: ../_test_col
+    
+
 kramdown:
   coderay:
     coderay_formatter: Hoosegow
